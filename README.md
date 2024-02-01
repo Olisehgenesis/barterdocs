@@ -1,5 +1,17 @@
 # Barter Pay Project
 
+## Table of Contents
+
+1. [Overview](#overview)
+2. [Goals](#goals)
+3. [Specifications](#specifications)
+4. [Unique Features](#unique-features)
+5. [Milestones](#milestones)
+6. [Getting Started](#getting-started)
+7. [Usage](#usage)
+8. [Contributing](#contributing)
+9. [License](#license)
+
 ## Overview
 
 Barter Pay is a legal payment tender designed to facilitate cashless transactions, manage inflation, and prevent fraud, robberies, and more. Goods are bought and held as virtual items, traded peer-to-peer, or redeemed for credits as specified by the company.
@@ -17,21 +29,22 @@ Barter Pay is a legal payment tender designed to facilitate cashless transaction
 
 ## Specifications
 
-Barter is available in three models:
+### 1. Barter Enterprises
 
-1. **Barter Enterprises:**
-   - For large companies and sellers with verified credibility.
-   - Goods are rendered and sold as Barter Vitems.
-   - Barter Batches are produced within specific periods, with non-editable specified amounts.
+- For large companies and sellers with verified credibility.
+- Goods are rendered and sold as Barter Vitems.
+- Barter Batches are produced within specific periods, with non-editable specified amounts.
 
-2. **Barter POS:**
-   - Implemented in service centers like bars, shops, and clubs.
-   - Assigned unique Barter ID or QR code for scanning.
-   - Dashboard displays items available for receipt, allowing users to prepay and credit funds to the company.
+### 2. Barter POS
 
-3. **Barter Buy:**
-   - A platform for purchasing items on Barter.
-   - Users prepay, hold items in their Barter accounts, and can resell, redeem, or gift them.
+- Implemented in service centers like bars, shops, and clubs.
+- Assigned unique Barter ID or QR code for scanning.
+- Dashboard displays items available for receipt, allowing users to prepay and credit funds to the company.
+
+### 3. Barter Buy
+
+- A platform for purchasing items on Barter.
+- Users prepay, hold items in their Barter accounts, and can resell, redeem, or gift them.
 
 ## Unique Features
 
@@ -55,3 +68,11 @@ Barter is available in three models:
 2. **Prototype Development:**
    - User interface and feature implementation based on ideation.
 
+## Getting Started
+
+To get started with the Barter Pay project, follow these steps:
+
+1. Signup for an Account:
+
+   ```bash
+   git clone https://github.com/your-username/barter-pay.git
